@@ -1,4 +1,4 @@
-Twiddio is a Twitter-style mockup React app that uses Bootstrap. I made this to learn more about the React framework and try to understand frontend programming and design principles. As it stands, you can add new posts, change your username, and delete existing posts in your feed - adding posts adds to an array created from a loaded JSON file. Adding a post also creates a unique post ID which aids the delete function.
+Twiddio is a Twitter-style mockup React app that uses Bootstrap. I made this to learn more about the React framework and try to understand frontend programming and design principles. As it stands, you can add new posts, change your username, and delete existing posts in your feed - adding posts adds to an array created from a loaded JSON file. Adding a post also creates a unique post ID which aids the delete function. There is no backend API for this project, however.
 
 The color scheme was derived from the [Bootswatch Cerulean theme](https://bootswatch.com/cerulean/).
 
