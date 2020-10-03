@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "postUser": "Billy",
+      "postTitle": "Feeling down...",
+      "postContent": "Need cheese, please! Ha ha but seriously I'm feeling increasingly anxious.",
+      "postCharLength": 74,
+      "postReplies": 5,
+      "postReposts": 10,
+      "postLikes": 20
+    },
+    {
+      "id": 2,
+      "postUser": "Sarah",
+      "postTitle": "New to Twiddio!",
+      "postContent": "Hi everyone! Looking forward to using Twiddio to communicate with only a select group of ten people. #SuperiorityComplex",
+      "postCharLength": 120,
+      "postReplies": 5,
+      "postReposts": 10,
+      "postLikes": 20
+    },
+    {
+      "id": 3,
+      "postUser": "The Clown",
+      "postTitle": "Floating",
+      "postContent": "It's disheartening to think that Tim Curry could be way scarier than me.",
+      "postCharLength": 72,
+      "postReplies": 5,
+      "postReposts": 10,
+      "postLikes": 20
+    },
+    {
+      "id": 4,
+      "postUser": "The Dog Account",
+      "postTitle": "A cute dog photo to brighten your day!",
+      "postContent": "* This photo has been removed for violating the Terms of Service. *",
+      "postCharLength": 74,
+      "postReplies": 5,
+      "postReposts": 10,
+      "postLikes": 20
+    },
+    {
+      "id": 5,
+      "postUser": "The Traveller",
+      "postTitle": "Important Mission",
+      "postContent": "Need someone to go back in time with me. This is not a joke.",
+      "postCharLength": 60,
+      "postReplies": 5,
+      "postReposts": 10,
+      "postLikes": 20
+    },
+    {
+      "id": 6,
+      "postUser": "Testman",
+      "postTitle": "Testing Things Out",
+      "postContent": "I'm testing out the system for adding new posts, and there DEFINITELY isn't any security breaches in the application, so don't call me, shareholders! :^)",
+      "postCharLength": 60,
+      "postReplies": 5,
+      "postReposts": 10,
+      "postLikes": 20
+    }
+  ]
+}

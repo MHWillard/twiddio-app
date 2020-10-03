@@ -1,0 +1,57 @@
+div.post-card {
+  margin: auto;
+  width: 70%;
+}
+
+div.add-post {
+  margin: auto;
+  width: 70%;
+  margin-bottom: 30px;
+}
+
+div.user-card {
+  margin: auto;
+  width: 70%;
+}
+
+div.intro {
+  margin: auto;
+  width: 70%;
+  padding: 30px 0 30px 0;
+}
+
+p.account-stats {
+  text-align: right;
+}
+
+span.account-username {
+  font-size: 1.6em;
+  padding: 0 20px 0 15px;
+}
+
+div.post-content {
+  padding: 5px 0px 20px 0px;
+}
+
+div.intro-text {
+  width: 60%;
+}
+
+h2.intro {
+  text-align: center;
+}
+
+input.inputTitle {
+  width: 60%;
+}
+
+textarea.inputContent {
+  width: 95%;
+  line-height: 140%;
+  resize: none;
+  height: 80px;
+}
+
+textarea.post-field {
+  height: 100px;
+}
